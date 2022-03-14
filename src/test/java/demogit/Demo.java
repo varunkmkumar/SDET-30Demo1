@@ -20,13 +20,15 @@ public class Demo {
 	   
 	   System.out.println("user 4- second commit");
 	   
-	   System.out.println("user 4- second commit");
+	   System.out.println("user 5- second commit");
+
+	   
 	
 System.out.println("user 5-Third commit");
+
 	   
-	   System.out.println("user 5- Third commit");
-	   
-	   
+	   System.out.println("user 6- Third commit");
+
    }
 
 }
